@@ -126,7 +126,16 @@ A simple interface built using `Gradio` allows the user to input a stock ticker 
 
 ### Running the App:
 
-To run the app locally:
+To run the app always:
 
 ```bash
+https://huggingface.co/spaces/sarb-o-jit/stock-price-forecast
+
+
+
+To run the app locally:
 https://8ee71895c89eaba170.gradio.live/
+
+
+
+
